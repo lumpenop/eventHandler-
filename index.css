@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-section{
+    margin-top: 20px;
+}
+
+ul {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+}
+
+li {
+   list-style: none;
+   width: 200px;
+   height: 100px; 
+   text-align: center;
+   line-height: 100px;
+   border: 1px solid black;
+   border-radius: 2px;
+   margin-right: 1px;
+}
